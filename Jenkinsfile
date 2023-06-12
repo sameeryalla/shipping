@@ -2,4 +2,4 @@
 
 env.component="shipping"
 
-nodejs()
+maven()
